@@ -1,4 +1,4 @@
-import java.lang.*;
+
 
 public class Account {
     private int accountNumber;
@@ -151,9 +151,3 @@ class Main {
         System.out.println("Balance after Withdrawal: " + account.getBalance());
     }
 }
- 
-
-
-
-
-
